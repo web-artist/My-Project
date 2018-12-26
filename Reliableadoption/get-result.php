@@ -28,5 +28,6 @@ print_r($_POST);die;
 
 /* echo "<br>Query executed is ".$wpdb->last_query;
 		echo "<br>Query result is ".$wpdb->last_result;
-		echo "<br>Error is ".$wpdb->last_error; */
+		echo "<br>Error is ".$wpdb->last_error; 
+changed code from other account github */
 		?>
